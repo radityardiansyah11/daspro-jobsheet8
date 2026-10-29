@@ -14,7 +14,7 @@ public class NilaiKelompok19 {
 
         } else {
             int nomorKelompok = 1;
-            double rataTertinggi = -1;
+            double rataTertinggi = 0;
             int kelompokTerbaik = 0;
 
             while (nomorKelompok <= jumlahKelompok) {
